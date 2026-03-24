@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexander Palelashvili</h1>
 <h3 align="center">Full-stack Web Developer & 11th Grade Student at Komarovi School</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palela2009" alt="palela2009" /></a> </p>
+
 
 - 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **React Native or Web Development projects**
 
-- 👨‍💻 One of my project [https://bluff-grid.netlify.app/](https://bluff-grid.netlify.app/)
+- 👨‍💻 One of my project is  [https://bluff-grid.netlify.app/](https://bluff-grid.netlify.app/)
 
 - 💬 Ask me about **React, React Native, Physics, or Math**
 
