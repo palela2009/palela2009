@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React Native or Web Development projects**
 
-- 👨‍💻 One of my project is  [https://bluff-grid.netlify.app/](https://bluff-grid.netlify.app/)
+- 👨‍💻 My projects are  [https://bluff-grid.netlify.app/](https://bluff-grid.netlify.app/) [https://quizioranked.com/](https://quizioranked.com/)
 
 - 💬 Ask me about **React, React Native, Physics, or Math**
 
