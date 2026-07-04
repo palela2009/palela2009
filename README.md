@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Palelashvili</h1>
-<h3 align="center">Full-stack Web Developer & 11th Grade Student at Komarovi School</h3>
+<h3 align="center">Full-stack Web Developer & 12th Grade Student at Komarovi School</h3>
 
 
 
