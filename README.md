@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **alexandre26062009@gmail.com**
 
-- ⚡ Fun fact **I'm a 2x Georgian champion in Kyokushin Karate, currently training in boxing, and a National Physics/Math finalist.**
+- ⚡ Fun fact **I'm a 2x Georgian champion in Kyokushin Karate, currently training in mma, and a National Physics/Math finalist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
